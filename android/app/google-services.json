@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175303172834",
+    "project_id": "task-9600",
+    "storage_bucket": "task-9600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175303172834:android:1c7e2f721c1fd864f674bb",
+        "android_client_info": {
+          "package_name": "com.rn_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175303172834-t967b49c1def7hol9fjv03p0kt72cfga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZHtWPhezLe2PsSZM6_sM_KBz1nozj0b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175303172834-t967b49c1def7hol9fjv03p0kt72cfga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
